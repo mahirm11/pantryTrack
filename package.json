@@ -1,0 +1,12 @@
+{
+  "avocado": {
+    "location": "Counter until ripe, then Fridge",
+    "shelf_life_days": 4,
+    "pro_tip": "Store with the pit in and a squirt of lime to prevent browning."
+  },
+  "milk": {
+    "location": "Back of the Fridge (not the door!)",
+    "shelf_life_days": 7,
+    "pro_tip": "The door is the warmest part of the fridge; keep dairy deep inside."
+  }
+}
